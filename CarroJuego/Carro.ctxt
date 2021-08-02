@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Carro\ here.\r\n\ \r\n\ @author\ (Hector\ de\ Leon)\ \r\n\ @version\ (Version\ 1,\ Entrega\ 25/07/21)\r\n
+comment1.params=
+comment1.target=Carro()
+comment1.text=\r\n\ velocidad\ no\ es\ final\ porque\ la\ velocidad\ del\ Carro\ si\ cambia.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAndTruth()
+comment4.params=
+comment4.target=void\ caer()
+comment5.params=
+comment5.target=void\ saltar()
+comment6.params=
+comment6.target=void\ eat()
+numComments=7
